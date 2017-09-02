@@ -1,10 +1,6 @@
----
-typora-root-url: C:\Users\benhu\Downloads\GIT\Brimir\Recipes\assets
----
-
 ## Chocolate Sheet Cake
 
-![ChocolateSheetCake](/ChocolateSheetCake.jpg)
+![ChocolateSheetCake](./assets/ChocolateSheetCake.jpg)\ 
 
 ### Ingredients
 
@@ -24,7 +20,7 @@ typora-root-url: C:\Users\benhu\Downloads\GIT\Brimir\Recipes\assets
 ### Method
 
 1. Adjust oven rack to middle position and heat oven to 160**°C**
-2.  Lightly spray 24?-inch round baking pan with vegetable oil spray. 
+2. Lightly spray 24?-inch round baking pan with vegetable oil spray. 
 3. Whisk sugar, flour, baking soda, and salt together in medium bowl; set aside.
 4. Combine milk, chocolate, and cocoa in large saucepan. Place saucepan over low heat and cook, whisking frequently, until chocolate is melted and mixture is smooth. 
 5. Remove from heat and let cool slightly, about 5 minutes. 
